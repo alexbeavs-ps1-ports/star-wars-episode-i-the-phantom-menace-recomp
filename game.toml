@@ -32,6 +32,7 @@ strict = true
 window_title = "Star Wars Episode I: The Phantom Menace Recompiled"
 memcard_dir = "saves"
 openbios = false
+overlay_cache = true
 
 [video]
 renderer = "opengl"
