@@ -31,7 +31,7 @@ strict = true
 [runtime]
 window_title = "Star Wars Episode I: The Phantom Menace Recompiled"
 memcard_dir = "saves"
-bios_hle = true
+bios_hle = false
 openbios = false
 overlay_cache = true
 
